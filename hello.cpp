@@ -3,3 +3,4 @@ int y = 3;
 int z;
 
 z = x - y;
+z++;
